@@ -2,5 +2,5 @@
 Multi-Brand Marketing Campaign Performance Analysis and Prediction Using Python, SQL, and Machine Learning
 
 1. pipeline.py
-2. model.py from profit_loss_classifier.pkl
+2. model.py 
    
